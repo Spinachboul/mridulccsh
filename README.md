@@ -1,6 +1,6 @@
 Here's a sample README file for your `mridulccsh` shell application. You can save this as `README.md` in the same directory as your shell executable:
 
-```markdown
+
 # mridulccsh
 
 Welcome to **mridulccsh**, a simple shell implemented in Go. This shell provides basic command functionalities similar to those found in traditional command-line interfaces like PowerShell or CMD.
